@@ -1,4 +1,4 @@
-# 🚗 Sistema de Cadastro de Carros
+# Sistema de Cadastro de Carros
 
 Sistema simples em **Java** para gerenciar um catálogo de carros, permitindo operações como cadastro, listagem, busca e exclusão.
 
