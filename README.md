@@ -10,11 +10,6 @@ Sistema simples em **Java** para gerenciar um catálogo de carros, permitindo op
 - **Mostrar o carro mais caro e o mais barato**.
 - **Excluir carros cadastrados**.
 
-## Tecnologias Utilizadas
-- **Java** (Programação Orientada a Objetos)
-- **JOptionPane** (Interface gráfica para interação com o usuário)
-- **ArrayList** (Armazenamento dinâmico dos carros cadastrados)
-
 ## Estrutura do Projeto
 - `Cadastro.java` → Lida com o gerenciamento de carros.
 - `Carro.java` → Classe modelo que representa um carro.
