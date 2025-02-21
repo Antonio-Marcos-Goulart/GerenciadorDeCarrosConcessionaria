@@ -16,3 +16,8 @@ Sistema simples em **Java** para gerenciar um catálogo de carros, permitindo op
 - `ExibirMensagens.java` → Métodos para interação com o usuário.
 - `Menu.java` → Exibe e gerencia as opções do sistema.
 - `Sist.java` → Classe principal para executar o programa.
+
+##Melhorias Futuras
+- Implementação de um banco de dados para armazenar os cadastros.
+- Interface gráfica usando Java Swing ou JavaFX.
+- Validações mais robustas para entrada de dados.
