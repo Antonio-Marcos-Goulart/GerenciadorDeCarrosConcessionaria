@@ -21,3 +21,4 @@ Sistema simples em **Java** para gerenciar um catálogo de carros, permitindo op
 - Implementação de um banco de dados para armazenar os cadastros.
 - Interface gráfica usando Java Swing ou JavaFX.
 - Validações mais robustas para entrada de dados.
+- Adicionar as classes em um projeto completo.
